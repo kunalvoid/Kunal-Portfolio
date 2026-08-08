@@ -700,8 +700,10 @@ li::marker {
   .hero-page {
     background-image:
       linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
-      url("portfoliofinal.png");
-    background-position: center;
+      url("./images/hero.png");
+    background-position: 68% center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
   }
 
   .greeting,
